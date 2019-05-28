@@ -18,7 +18,7 @@
   "author": "Michał Janaszek",
   "license": "MIT",
   "dependencies": {
-    "chrome-har": "^0.10.0"
+    "chrome-har": "github:juvirez/chrome-har-client#cb246521448766a5616708dabf16dec3d5188ec5"
   },
   "peerDependencies": {
     "puppeteer": ">=1.0.0"
